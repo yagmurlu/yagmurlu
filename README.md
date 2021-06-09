@@ -1,24 +1,3 @@
-### Hi there 👋
-
-<!--
-**yagmurlu/yagmurlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://www.linkedin.com/in/aleyna-ya%C4%9Fmur-t%C3%BCmt%C3%BCrk-05a28b207/">
-  <img align="left" alt="Aleyna Yağmur Tümtürk in Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 <!--<h3 align="center">
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
@@ -33,3 +12,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/sw-yx/README">Work README</a> •
   <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
 </p>
+
+<!--
+
+<a href="https://www.linkedin.com/in/aleyna-ya%C4%9Fmur-t%C3%BCmt%C3%BCrk-05a28b207/">
+  <img align="left" alt="Aleyna Yağmur Tümtürk in Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+
