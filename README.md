@@ -13,7 +13,8 @@
 </a>
 -->
 
-<!--Profile Views -->
+<!--Profile Views 
 <p align="center">
   <img src="https://gpvc.arturio.dev/yagmurlu" alt="profile views">  
 </p>
+-->
