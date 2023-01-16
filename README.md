@@ -1,9 +1,11 @@
 <h1 align='center'> Hi there 👋, I'm Yağmur</h1>
 
-<!--Profile Status -->
+<!--Profile Status 
 
 <a href="https://github.com/yagmurlu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurlu&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=ffff00&icon_color=ffff00&hide_border=true" /></a>
 <a href="https://github.com/yagmurlu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurlu&bg_color=0d1117&text_color=ffffff&title_color=ffff00&hide_border=true&layout=compact&langs_count=10" /></a>
+
+-->
 
 
 <!-- Lınkedin -->
