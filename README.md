@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Yağmur</h1>
+<h1 align='center'> Hi 👋, I'm Yağmur</h1>
 
 <!--Profile Status 
 
