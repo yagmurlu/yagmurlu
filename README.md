@@ -1,22 +1,14 @@
-<h1 align='center'> Hi 👋, I'm Yağmur</h1>
-
-<!--Profile Status 
-
-<a href="https://github.com/yagmurlu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurlu&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=ffff00&icon_color=ffff00&hide_border=true" /></a>
-<a href="https://github.com/yagmurlu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurlu&bg_color=0d1117&text_color=ffffff&title_color=ffff00&hide_border=true&layout=compact&langs_count=10" /></a>
-
--->
-
-
-<!-- Lınkedin -->
-<!--
-<a href="https://www.linkedin.com/in/aleyna-ya%C4%9Fmur-t%C3%BCmt%C3%BCrk-05a28b207/">
-   <img align="center" alt="Aleyna Yağmur Tümtürk in Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
--->
-
-<!--Profile Views 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/yagmurlu" alt="profile views">  
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+!+Welcome+to+my+Github+page;I+am+Yağmur+:)&font=Fira%20Code&center=true&width=740&height=45&color=7B68EE&vCenter=true&size=30">
 </p>
--->
+
+<div align="center">
+    <div>
+        <a href="https://github.com/yagmurlu">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurlu&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
+        </a>
+       <a href="https://github.com/yagmurlu">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurlu&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+        </a>
+    </div>
+</div>
