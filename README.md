@@ -21,7 +21,7 @@
   
 <h3 align="center"> 📊 Contribution Stats </h3>  
 
-<img alt="Yağmur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yagmurlu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Yağmur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yagmurlu&bg_color=1F222E&color=F8D866&line=a30683&point=faff00&hide_border=true" />
  
 
 <br>
