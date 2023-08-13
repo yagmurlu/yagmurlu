@@ -1,7 +1,9 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+!+Welcome+to+my+Github+page;I+am+Yağmur+:)&font=Fira%20Code&center=true&width=740&height=45&color=7B68EE&vCenter=true&size=30">
 </p>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 <div align="center">
     <div>
         <a href="https://github.com/yagmurlu">
@@ -19,7 +21,7 @@
   
 <h3 align="center"> 📊 Contribution Stats </h3>  
 
-<img alt="Erdinc's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ErdincOzdemirr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Yağmur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yagmurlu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
 
 <br>
